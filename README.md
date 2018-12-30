@@ -155,7 +155,7 @@ Just follow 3 rules:
     composer complete-check
     ```
 
-    Don you need to fix coding standards? Run:
+    Do you need to fix coding standards? Run:
 
     ```bash
     composer fix-cs
